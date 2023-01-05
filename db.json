@@ -1,0 +1,43 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "branchId": 10001,
+      "userName": "testuser01",
+      "password": "pa55w0rd001",
+      "firstName": "John",
+      "middleName": "Sanchez",
+      "lastName": "Doe",
+      "position": "Developer"
+    },
+    {
+      "id": 2,
+      "branchId": 10002,
+      "userName": "testuser02",
+      "password": "pa55w0rd002",
+      "firstName": "Ricardo",
+      "middleName": "Dubov",
+      "lastName": "Martinez",
+      "position": "Lead Developer"
+    },
+    {
+      "id": 3,
+      "branchId": 10003,
+      "userName": "testuser03",
+      "password": "pa55w0rd003",
+      "firstName": "Gol",
+      "middleName": "Denver",
+      "lastName": "Roger",
+      "position": "Project Manager"
+    },
+    {
+      "id": 4,
+      "branchId": 10004,
+      "firstName": "Zcyrel",
+      "middleName": "Patron",
+      "lastName": "Cortejo",
+      "userName": "zcyuser",
+      "password": "adminadmin"
+    }
+  ]
+}
